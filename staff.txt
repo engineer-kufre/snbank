@@ -1,0 +1,9 @@
+username mandela
+password mandela
+email mandela@gmail.com
+full_name Nelson Mandela
+
+username einstein
+password einstein
+email einstein@gmail.com
+full_name Albert Einstein
